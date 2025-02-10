@@ -7,7 +7,7 @@ Third EMM Java SDK provides the basic java APIs for third party developers to in
 
 Gradle:
 
-    implementation 'com.whatspos.sdk:emm-java-sdk:9.6.3'
+    implementation 'com.whatspos.sdk:emm-java-sdk:1.0.0'
 
 ## API Usage
 
