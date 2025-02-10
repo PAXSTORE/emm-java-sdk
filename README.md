@@ -1,7 +1,7 @@
 # PAXSTORE 3rd App Java SDK 
 
 
-PAXSTORE 3rd App Java SDK provides the basic java APIs for third party developers to integrate their apps on PAXSTORE.
+Third party App Java SDK provides the basic java APIs for third party developers to integrate their apps on EMM.
 
 ## Download Dependency
 
