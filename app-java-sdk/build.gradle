@@ -48,11 +48,11 @@ task generateSdkVersion {
 
     outputs.dir "$buildDir/generated"
     doFirst {
-        def versionFile = file("$buildDir/generated/com/pax/market/api/sdk/java/Version.java")
+        def versionFile = file("$buildDir/generated/com/zolon/maxstore/emm/sdk/java/Version.java")
         versionFile.parentFile.mkdirs()
         versionFile.text =
                 """
-package com.zolon.maxstore.emm.sdk.java.java;
+package com.zolon.maxstore.emm.sdk.java;
 
 public class Version {
 	public static String getVersion() {

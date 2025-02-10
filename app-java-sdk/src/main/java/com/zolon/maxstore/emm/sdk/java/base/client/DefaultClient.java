@@ -12,7 +12,7 @@
 package com.zolon.maxstore.emm.sdk.java.base.client;
 
 
-import com.zolon.maxstore.emm.sdk.java.java.Version;
+import com.zolon.maxstore.emm.sdk.java.Version;
 import com.zolon.maxstore.emm.sdk.java.base.constant.Constants;
 import com.zolon.maxstore.emm.sdk.java.base.constant.ResultCode;
 import com.zolon.maxstore.emm.sdk.java.base.request.SdkRequest;

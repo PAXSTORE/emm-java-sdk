@@ -1,13 +1,13 @@
-# PAXSTORE 3rd App Java SDK 
+# EMM Java SDK
 
 
-Third party App Java SDK provides the basic java APIs for third party developers to integrate their apps on EMM.
+Third EMM Java SDK provides the basic java APIs for third party developers to integrate their apps on EMM.
 
 ## Download Dependency
 
 Gradle:
 
-    implementation 'com.whatspos.sdk:paxstore-3rd-app-java-sdk:9.6.3'
+    implementation 'com.whatspos.sdk:emm-java-sdk:9.6.3'
 
 ## API Usage
 
@@ -34,7 +34,7 @@ Gradle:
 
 ## License
 
-See the [Apache 2.0 license](https://github.com/PAXSTORE/paxstore-3rd-app-android-sdk/blob/master/LICENSE) file for details.
+See the [Apache 2.0 license](https://github.com/PAXSTORE/emm-java-sdk/blob/master/LICENSE) file for details.
 
     Copyright © 2019 Shenzhen Zolon Technology Co., Ltd. All Rights Reserved.
 
