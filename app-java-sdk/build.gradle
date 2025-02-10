@@ -52,7 +52,7 @@ task generateSdkVersion {
         versionFile.parentFile.mkdirs()
         versionFile.text =
                 """
-package com.pax.market.api.sdk.java;
+package com.zolon.maxstore.emm.sdk.java.java;
 
 public class Version {
 	public static String getVersion() {
