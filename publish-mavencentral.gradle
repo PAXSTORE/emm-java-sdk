@@ -7,6 +7,8 @@ ext["signing.password"] = ''
 ext["signing.secretKeyRingFile"] = ''
 ext["ossrhUsername"] = ''
 ext["ossrhPassword"] = ''
+ext["devName"] = ''
+
 
 File secretPropsFile = project.rootProject.file('local.properties')
 if (secretPropsFile.exists()) {
@@ -25,7 +27,7 @@ def PUBLISH_GROUP_ID = 'com.whatspos.sdk' //这里可以不是直接申请时候
 
 def PUBLISH_ARTIFACT_ID = "emm-java-sdk"
 
-def PUBLISH_VERSION = "1.0.0-SNAPSHOT"
+def PUBLISH_VERSION = "1.0.0"
 
 // 当你发布的是一个纯java的依赖，那么就需要把下面的方法打开因为纯java的依赖，maven那边要求提供完整的javadoc，
 // 但是aar不需要提供，也无法提供，因为下面的task javadocJar命令无法被识别
