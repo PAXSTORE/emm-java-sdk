@@ -92,7 +92,7 @@ uploadArchives {
 
                 developers {
                     developer { // 这里改成自己的信息
-                        name 'Derek'
+                        name devName
                         email 'paxstore-support@paxsz.com'
                     }
                 }
