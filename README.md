@@ -7,7 +7,7 @@ Third EMM Java SDK provides the basic java APIs for third party developers to in
 
 Gradle:
 
-    implementation 'com.whatspos.sdk:emm-java-sdk:3.2.0'
+    implementation 'com.whatspos.sdk:emm-java-sdk:3.2.1'
 
 ## API Usage
 
@@ -36,7 +36,7 @@ Gradle:
 
 See the [Apache 2.0 license](https://github.com/PAXSTORE/emm-java-sdk/blob/master/LICENSE) file for details.
 
-    Copyright © 2019 Shenzhen Zolon Technology Co., Ltd. All Rights Reserved.
+    Copyright 2026 PAX Computer Technology(Shenzhen) CO., LTD ("PAX")
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
