@@ -36,7 +36,7 @@ Gradle:
 
 See the [Apache 2.0 license](https://github.com/PAXSTORE/emm-java-sdk/blob/master/LICENSE) file for details.
 
-    Copyright 2025 PAX Computer Technology(Shenzhen) CO., LTD ("PAX")
+    Copyright © 2025 PAX Technology Limited. All Rights Reserved.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
